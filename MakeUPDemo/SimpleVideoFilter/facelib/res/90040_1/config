@@ -1,0 +1,26 @@
+﻿{
+"Name": "花椒眨眼",
+"ID": "90040_1",
+"Type": 1,
+"loop": 1,
+"music": "aaa.mp3",
+"texture": [
+{
+"mframeCount": 60,
+"radius_Type": 0,
+"mradius": 0,
+"mid_Type": 0,
+"scale_Type": 0,
+"scale_ratio": 70,
+"anchor_offset_x": -170,
+"anchor_offset_y": -20,
+"asize_offset_x": 130,
+"asize_offset_y": 114,
+"mfaceCount": 1,
+"isSuitDirection": 1,
+"anchor_offset_suit_x": 30,
+"anchor_offset_suit_y": -20,
+"imageName": "hjbbzy_"
+}
+]
+}

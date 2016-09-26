@@ -1,0 +1,6 @@
+framework module SoftenEngine {
+  umbrella header "SoftenEngine.h"
+
+  export *
+  module * { export * }
+}

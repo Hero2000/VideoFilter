@@ -1,0 +1,6 @@
+framework module AIMakeUp360 {
+  umbrella header "AIMakeUp360.h"
+
+  export *
+  module * { export * }
+}
